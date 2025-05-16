@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-50;
+}
+
+/* Custom styles for vis-network */
+.vis-network {
+  outline: none;
+}
+
+.vis-tooltip {
+  @apply bg-white text-gray-800 px-3 py-2 rounded shadow-lg text-sm border border-gray-200;
+} 
