@@ -1,7 +1,5 @@
 # Biography Demo: Relationship Graph Visualization
 
-A demonstration web app showcasing Biography's platform and the graph of human relationships for General Catalyst.
-
 ## Overview
 
 This demo app visualizes how Biography's platform stores relationship data as a graph, with:
